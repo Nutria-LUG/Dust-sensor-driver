@@ -6,4 +6,4 @@ Il progetto prevede la distribuzione di sensori di pm10 a privati cittadini in m
 
 Il progetto è gestito dall'Associazione Nutria-LUG in collaborazione con ASM e il Comune di Pavia.
 
-Nutria-LUG: www.pavia.linux.it
+Nutria-LUG: pavia.linux.it
